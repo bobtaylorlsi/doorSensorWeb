@@ -10,7 +10,7 @@ var request = new XMLHttpRequest();
 main();
 
 async function main() {
-  request.open('GET', 'https://8mfdub98va.execute-api.us-east-1.amazonaws.com/dev', true);
+  request.open('GET', 'https://laa1tvf1ej.execute-api.us-east-1.amazonaws.com/Dev', true);
   request.onload = async function () {
 
     // Begin accessing JSON data here
