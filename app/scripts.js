@@ -1,3 +1,6 @@
+//Forked from https://github.com/perinei/doorSensorWeb by permisson
+//Modified for this work example
+//Date:1-20-2020
 const app = document.getElementById('root');
 
 const container = document.createElement('div');
